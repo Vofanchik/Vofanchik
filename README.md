@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+### GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Vofanchik&show_icons=true&theme=dark" alt="Vofanchik" />
+<p align="left"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vofanchik&layout=compact&theme=dark" alt="Vofanchik" />
 <!--
 **Vofanchik/Vofanchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
