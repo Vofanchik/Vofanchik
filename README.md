@@ -1,7 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+### I'm Vladimir 🪆
+### Master of Gene and Cell Technologies 🧬
+### Pharmaceutical specialist 💊
+### Computer science teacher 🧑‍🏫
+### I’m currently learning JS 💻
+### I’m looking to collaborate on chemestry and biotech science projects 🔬
+### Fun fact: traveled many regions of Russia from Murmansk to Kamchatka 🗺️
+### How to reach me: Vofanchic@mail.ru 📫
 
-
-### GitHub Stats
+# GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Vofanchik&show_icons=true&theme=dark" alt="Vofanchik" />
 <p align="left"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vofanchik&layout=compact&theme=dark" alt="Vofanchik" />
