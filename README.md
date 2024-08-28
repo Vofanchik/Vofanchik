@@ -12,6 +12,9 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Vofanchik&show_icons=true&theme=dark" alt="Vofanchik" />
 <p align="left"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vofanchik&layout=compact&theme=dark" alt="Vofanchik" />
+<p align="left">
+    <a href="#"><img src="https://skillicons.dev/icons?i=python,flask,django,postgres,sqlite,git,docker,linux,cpp,html,css,js,react,qt,r,arduino,raspberrypi,php&perline=9" alt="skills"></a>
+</p>
 <!--
 **Vofanchik/Vofanchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
